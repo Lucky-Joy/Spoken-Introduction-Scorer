@@ -98,3 +98,10 @@ project/
 * You can modify the rubric or adjust scoring weights without changing the core logic.
 
 ---
+
+## 🌐 Live Deployment
+
+You can try the fully deployed version of the app here:
+
+**🔗 Spoken Introduction Scorer (Live App)**
+https://lucky-joy-spoken-intro-scorer.streamlit.app/
